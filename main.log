@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.10.28)  30 OCT 2026 10:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.10.28)  6 NOV 2026 10:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -866,10 +866,10 @@ LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 Package epstopdf Info: Source file: <figuras/capa.eps>
-(epstopdf)                    date: 2026-10-28 16:37:26
+(epstopdf)                    date: 2026-11-05 18:47:05
 (epstopdf)                    size: 649636 bytes
 (epstopdf)             Output file: <figuras/capa-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-10-30 09:24:44
+(epstopdf)                    date: 2026-11-05 18:47:05
 (epstopdf)                    size: 106109 bytes
 (epstopdf)             Command: <repstopdf --outfile=figuras/capa-eps-converted
 -to.pdf figuras/capa.eps>
@@ -1010,10 +1010,10 @@ Cap\'{\i }tulo 1.
 
 ]
 Package babel Info: 'brazil' activates 'portuges' shorthands.
-(babel)             Reported on input line 96.
+(babel)             Reported on input line 95.
  [24]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-03.
+02.
  (/usr/share/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
@@ -1113,7 +1113,7 @@ Package rerunfilecheck Info: File `main.brf' has not changed.
 Here is how much of TeX's memory you used:
  17882 strings out of 469416
  289254 string characters out of 5467572
- 732565 words of memory out of 5000000
+ 732561 words of memory out of 5000000
  45975 multiletter control sequences out of 15000+600000
  718139 words of font info for 88 fonts, out of 8000000 for 9000
  42 hyphenation exceptions out of 8191
@@ -1132,7 +1132,7 @@ e/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type
 1/public/lm/lmsy6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></
 usr/share/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></usr/share/texmf-dist/fo
 nts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (55 pages, 529558 bytes).
+Output written on main.pdf (55 pages, 529598 bytes).
 PDF statistics:
  804 PDF objects out of 1000 (max. 8388607)
  712 compressed objects within 8 object streams
